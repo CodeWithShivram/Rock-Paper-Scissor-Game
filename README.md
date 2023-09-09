@@ -48,5 +48,5 @@ You can play the game online by following this link: [Insert Project Link Here](
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/CodeWithShivram/Rock-Paper-Scissor-Game/blob/main/LICENSELICENSE) file for details.
 
