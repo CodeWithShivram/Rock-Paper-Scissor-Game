@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-![Game Screenshot](insert_screenshot_image_url_here)
+![Game Screenshot]([insert_screenshot_image_url_here](https://github.com/CodeWithShivram/Rock-Paper-Scissor-Game/blob/main/sample1.png))
 
 ## Description
 
