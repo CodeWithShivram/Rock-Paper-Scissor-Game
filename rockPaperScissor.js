@@ -18,17 +18,20 @@ window.onload = function() {
 
 function selectChoice() {
     you = this.id;
-    document.getElementById("your-choice").src = you + ".png";
+    yourChoice = document.getElementById("your-choice")
+    yourChoice.src = you + ".png";
 
     //random for oppponent
-    opponent = choices[Math.floor(Math.random() * 3)]; //0- .999999 * 3 = 0-2.99999
-    document.getElementById("opponent-choice").src = opponent + ".png";
+    opponent = choices[Math.floor(Math.random() * 3)]; //0- .999999 * 3 = 0-2.999994
+    opponentChoice = document.getElementById("opponent-choice")
+    opponentChoice.src = opponent + ".png";
 
     //check for winner
     if (you == opponent) {
-        yourScore += 1;
-        opponentScore += 1;
+        selectChoice()
     }
+    
+    
     else {
         if (you == "rock") {
             if (opponent == "scissors") {
@@ -58,4 +61,16 @@ function selectChoice() {
 
     document.getElementById("your-score").innerText = yourScore;
     document.getElementById("opponent-score").innerText = opponentScore;
+}
+function checkScore(){
+     if(yourScore==3 && opponentScore<3){
+        document.getElementById("your-score").innerHTML = "You Win &#128526;, Congrats &#129321; "
+        document.getElementById("opponent-score").innerText= ""
+        yourScore=opponentScore=0
+    }
+    else if(opponentScore==3 && yourScore<3){
+        document.getElementById("your-score").innerHTML = "Opponent Win, Try Again &#128577;"
+        document.getElementById("opponent-score").innerText= ""
+        yourScore=opponentScore=0
+    }
 }

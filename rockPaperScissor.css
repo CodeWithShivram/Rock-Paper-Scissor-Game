@@ -1,26 +1,35 @@
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-}
+    background-image: url("rockpaperbg.png");
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    overflow: hidden;
+    color:white
 
+}
+div{
+    display: wrap;
+    clear:both;
+    border: none !important;
+    flex-wrap: wrap;
+}
 #opponent-choice {
     width: 240px;
     height: 240px;
-    /* background-color: cyan; */
-    margin-top: 10px;
+    margin: 5;
 }
 
 #your-choice {
     width: 240px;
     height: 240px;
-    /* background-color: yellow; */
     margin-top: 10px; 
 }
 
 #choices {
     width: 240px;
     height: 80px;
-    /* background-color: green; */
     margin: 0 auto;
     margin-top: 10px;
 }
@@ -29,3 +38,23 @@ body {
     width: 80px;
     height: 80px;
 }
+#myName{
+    font-size:15px ;
+    font-family: cursive;
+    display: inline-block;
+}
+#gameName{
+    font-family: Georgia, serif;
+    font-size: 50px;
+    font-weight: bold;
+    display: inline-block;
+   margin-left: 70px;
+  
+}
+h1{
+    margin: 10px auto;
+}
+
+
+
+
