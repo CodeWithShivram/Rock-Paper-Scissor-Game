@@ -8,7 +8,7 @@ This is a simple Rock, Paper, Scissors game implemented using HTML, CSS, and Jav
 
 ## Demo
 
-You can play the game online by following this link: [Insert Project Link Here](insert_project_link_here)
+You can play the game online by following this link: [Insert Project Link Here](https://codewithshivram.github.io/Rock-Paper-Scissor-Game/)
 
 ## How to Play
 
