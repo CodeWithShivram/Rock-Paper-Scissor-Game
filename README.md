@@ -39,12 +39,12 @@ You can play the game online by following this link: [Insert Project Link Here](
 ## Installation
 
 1. Clone the repository or download the project files.
-2. Open the `index.html` file in your web browser to play the game.
+2. Open the `rockPaperScissor.html` file in your web browser to play the game.
 
 ## Credits
 
-- [Your Name or Username]
-- [Any credits or attributions for libraries, assets, or tutorials used]
+- [Shivram Marwadi]
+- [freeCodeCamp , w3schools]
 
 ## License
 
