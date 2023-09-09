@@ -43,8 +43,8 @@ You can play the game online by following this link: [Insert Project Link Here](
 
 ## Credits
 
-- [Shivram Marwadi]
-- [freeCodeCamp , w3schools]
+- Shivram Marwadi
+- freeCodeCamp , w3schools
 
 ## License
 
