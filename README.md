@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors Game
 
-![alt text](https://github.com/CodeWithShivram/Rock-Paper-Scissor-Game/blob/main/sample1.png)
+![alt text](https://github.com/CodeWithShivram/Rock-Paper-Scissor-Game/blob/main/sample2.png)
 
 ## Description
 
@@ -26,7 +26,7 @@ You can play the game online by following this link: [Insert Project Link Here](
 
 ## Screenshots
 
-![alt text](https://github.com/CodeWithShivram/Rock-Paper-Scissor-Game/blob/main/sample2.png)
+![alt text](https://github.com/CodeWithShivram/Rock-Paper-Scissor-Game/blob/main/sample1.png)
 ![alt text](https://github.com/CodeWithShivram/Rock-Paper-Scissor-Game/blob/main/sample3.png)
 
 
